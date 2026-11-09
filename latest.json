@@ -1,6 +1,6 @@
 {
-  "version": "0.9.1",
-  "versionCode": 901,
-  "apkUrl": "https://github.com/Snoozept/idtech-escritorio-releases/releases/download/v0.9.1-test/idtech-escritorio-0.9.1-test.apk",
-  "notes": "Build de teste 0.9.1"
+  "version": "0.10.0",
+  "versionCode": 1000,
+  "apkUrl": "https://github.com/Snoozept/idtech-escritorio-releases/releases/download/v0.10.0-test/idtech-escritorio-0.10.0-test.apk",
+  "notes": "Build de teste 0.10.0"
 }
