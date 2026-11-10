@@ -1,14 +1,14 @@
 {
   "format": 1,
-  "version": "0.11.2",
-  "versionCode": 1102,
-  "url": "https://github.com/Snoozept/idtech-escritorio-releases/releases/download/v0.11.2-test/idtech-web-0.11.2.zip",
-  "sha256": "22f70108cc5b12afe1657d5943e4f62a72a894c05b91b0d0da7066c3601a0204",
-  "size": 335933,
+  "version": "0.12.0",
+  "versionCode": 1200,
+  "url": "https://github.com/Snoozept/idtech-escritorio-releases/releases/download/v0.12.0-test/idtech-web-0.12.0.zip",
+  "sha256": "b37568a97d0daba74344aafe8091edad90006f9f71fb02bcac35e120bdc46b4c",
+  "size": 338743,
   "minNativeVersion": "0.11.1",
   "minNativeVersionCode": 1101,
   "nativeFingerprint": "ce6b644572fc06438c290e6d94f3eaf16338ed8108843e82bd9d1957ce423c01",
-  "createdAt": "2026-11-09T23:41:03.287Z",
-  "notes": "IDtech 0.11.2 (teste)",
-  "signature": "PidK9NwbVJdM4//P1RaDuLteHR7t/zmhORZNUyVqm8kUhZqg84iy53DDAMc59ebuam3bubRTZstIf6Op2WP6CQ=="
+  "createdAt": "2026-11-10T09:46:32.788Z",
+  "notes": "IDtech 0.12.0 (teste)",
+  "signature": "ghzmemp859cTiOcGVPBLycUHXm2FkYxZe8m+CKknMbMj0BE8wJVlCnerg5qlxxa2audt1ERuga9jt1FfToNDDg=="
 }
