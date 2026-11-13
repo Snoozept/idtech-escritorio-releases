@@ -1,7 +1,7 @@
 {
-  "version": "0.12.3",
-  "versionCode": 1203,
-  "apkUrl": "https://github.com/Snoozept/idtech-escritorio-releases/releases/download/v0.12.3-test/idtech-escritorio-0.12.3-test.apk",
+  "version": "0.12.4",
+  "versionCode": 1204,
+  "apkUrl": "https://github.com/Snoozept/idtech-escritorio-releases/releases/download/v0.12.4-test/idtech-escritorio-0.12.4-test.apk",
   "nativeFingerprint": "ce6b644572fc06438c290e6d94f3eaf16338ed8108843e82bd9d1957ce423c01",
-  "notes": "Build de teste 0.12.3"
+  "notes": "Build de teste 0.12.4"
 }
